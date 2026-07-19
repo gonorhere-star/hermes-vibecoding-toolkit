@@ -3,6 +3,8 @@
 **Готовый пайплайн для AI-разработки с Hermes Agent через модель «Архитектор + Исполнитель».**
 Экономьте токены, сохраняйте контекст чистым, стройте проекты быстрее.
 
+***Это черновой вариант, сгенерированный совместно с нейронкой человеком без большого опыта. Скорее всего не идеальный вариант и будет правится. Сделанно для ознакомления и помощи***
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Hermes Agent](https://img.shields.io/badge/powered_by-Hermes_Agent-purple)](https://hermes-agent.nousresearch.com)
 
